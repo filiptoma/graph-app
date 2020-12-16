@@ -1,0 +1,11 @@
+DarkGoldenrod1
+DarkOrchid2
+SpringGreen3
+RoyalBlue2
+maroon2
+turquoise
+firebrick1
+LightSalmon2
+DarkOrange1
+OliveDrab1
+SlateGray1
