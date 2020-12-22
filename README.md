@@ -3,7 +3,7 @@ This is a simple tkinter Python application which purpose is to demonstrate a fe
 ## Installation
 All you need to do is to have Python interpreter and tkinter module installed. Tkinter can be installed using command:
 
-`pip3 install tk`
+`sudo apt install python3-tk`
 
 After that just execute the `main.py` file and tkinter window will open.
 ## Usage
